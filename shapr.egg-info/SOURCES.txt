@@ -1,0 +1,16 @@
+LICENSE.md
+README.md
+setup.py
+shapr/__init__.py
+shapr/_settings.py
+shapr/data_generator.py
+shapr/main.py
+shapr/metrics.py
+shapr/model.py
+shapr/run_train_script.py
+shapr/utils.py
+shapr.egg-info/PKG-INFO
+shapr.egg-info/SOURCES.txt
+shapr.egg-info/dependency_links.txt
+shapr.egg-info/requires.txt
+shapr.egg-info/top_level.txt

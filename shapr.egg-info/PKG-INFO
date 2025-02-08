@@ -1,0 +1,23 @@
+Metadata-Version: 2.2
+Name: shapr
+Version: 0.0.2
+Home-page: https://github.com/marrlab/ShapeAE
+Author: Dominik Waibel, Niklas Kiermeyer, Mohammad Mirkazemi
+Author-email: dominik.waibel@helmholtz-muenchen.de
+License: MIT
+Keywords: Computational Biology Deep Learning
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE.md
+Requires-Dist: keras>=2.2.4
+Requires-Dist: imageio
+Requires-Dist: scikit-image
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-dist
